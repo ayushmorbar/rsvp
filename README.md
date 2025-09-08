@@ -1,13 +1,30 @@
-# Final Deliverables Summary - RSVP by Offbeats MVP
+# RSVP by Offbeats
 
-## Document Overview
+**A student-first event discovery and management platform designed to scale.**
 
-This comprehensive MVP definition package provides a complete roadmap for launching "RSVP by Offbeats" - a user-centric event discovery and management platform focused on the student and campus community market.
+[![GitHub stars](https://img.shields.io/github/stars/ayushmorbar/rsvp.svg)](https://github.com/ayushmorbar/rsvp/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ayushmorbar/rsvp.svg)](https://github.com/ayushmorbar/rsvp/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Deliverable Structure
+## 🎯 Mission
+
+Start with students, scale to everyone. We're building the event platform that student communities deserve - zero fees, mobile-first, and designed for the way students actually discover and attend events.
+
+## 📋 Project Status
+
+**Current Phase:** MVP Definition & Planning  
+**Target Launch:** Q4 2025  
+**Initial Market:** University and college campuses  
+**Scale Strategy:** Proven student features → general market expansion  
+
+## 🏗️ Repository Structure
+
+This repository contains the complete MVP definition, research findings, and implementation roadmap for RSVP by Offbeats.
+
 ```
 d:\Builds\rsvp\
-├── executive-summary.md           # Business case and strategic overview
+├── README.md                      # You are here - project overview
+├── executive-summary.md           # Strategic overview and business case
 ├── moscow-prioritization.md       # Feature prioritization with MoSCoW framework
 ├── 90-day-roadmap.md              # Implementation timeline and milestones
 ├── kpis-analytics.md              # Success metrics and measurement framework
